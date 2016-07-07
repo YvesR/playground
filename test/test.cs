@@ -28,6 +28,7 @@ namespace Import
     /// </summary>
     static ExcelImporter()
     {
+      throw(up);
     }
 
     #endregion
